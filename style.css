@@ -1,0 +1,14 @@
+.nome {
+    color: rgb(96, 92, 99);
+    text-align: center;
+}
+.subnome {
+ color: rgba(108, 110, 110, 0.685);    
+ text-align: center;
+}
+.imgprofile {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 15%;
+}
